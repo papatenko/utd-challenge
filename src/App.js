@@ -12,10 +12,10 @@ function App() {
 function Header() {
   return (
     <header>
-      <h1 className="title">This is the header component</h1>
+      <h1 className="title">Big Cock Coperation</h1>
       <div className="hyperlinks">
-        <h2> about us</h2>
-        <h2> search</h2>
+        <h2>about us</h2>
+        <h2>search</h2>
       </div>
     </header>
   );
